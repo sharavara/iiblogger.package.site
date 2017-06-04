@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/iiblogger.package_1.1.5.jar" id="iiblogger.package" version="1.1.5"/>
+</site>
